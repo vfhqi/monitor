@@ -1,0 +1,66 @@
+{
+  "generated": "2026-06-10T13:33:31Z",
+  "stage1_date": "2026-06-10",
+  "stage1_baseline": 6783,
+  "current_total": 6783,
+  "new_since_stage1": 0,
+  "days_since_stage1": 0.01,
+  "daily_rate_post_stage1": null,
+  "est_pipeline_daily": null,
+  "total_running": 5,
+  "running_by_agent": {
+    "pipeline_submission": 1,
+    "pipeline_extraction": 1,
+    "pipeline_production": 0,
+    "pipeline_publishing": 1,
+    "pipeline_morning_routine": 0,
+    "pipeline_eod_routine": 0,
+    "pipeline_memory_weekly": 0,
+    "interactive_sa": 0,
+    "interactive_apm": 1,
+    "interactive_researcher": 0,
+    "other": 1
+  },
+  "currently_running": [
+    "Family publishing agent",
+    "Family submission agent",
+    "Family extraction agent",
+    "APM Sm - Portfolio composition ideas - 09-Jun 1600h",
+    "Canonical guard flip to strict"
+  ],
+  "recent_by_agent": {
+    "pipeline_submission": 162,
+    "pipeline_extraction": 44,
+    "pipeline_production": 36,
+    "pipeline_publishing": 19,
+    "pipeline_morning_routine": 4,
+    "pipeline_eod_routine": 1,
+    "pipeline_memory_weekly": 0,
+    "interactive_sa": 4,
+    "interactive_apm": 1,
+    "interactive_researcher": 3,
+    "other": 26
+  },
+  "recent_pct": {
+    "pipeline_submission": 54.0,
+    "pipeline_extraction": 14.7,
+    "pipeline_production": 12.0,
+    "pipeline_publishing": 6.3,
+    "pipeline_morning_routine": 1.3,
+    "pipeline_eod_routine": 0.3,
+    "pipeline_memory_weekly": 0.0,
+    "interactive_sa": 1.3,
+    "interactive_apm": 0.3,
+    "interactive_researcher": 1.0,
+    "other": 8.7
+  },
+  "loop_alerts": [],
+  "snapshots_count": 1,
+  "snapshot_history": [
+    {
+      "ts": "2026-06-10T13:26:13Z",
+      "total": 6783,
+      "total_running": 5
+    }
+  ]
+}
